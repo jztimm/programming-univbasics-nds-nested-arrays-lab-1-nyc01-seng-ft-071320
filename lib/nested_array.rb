@@ -46,20 +46,23 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   
   matrix = [
-    conventional_produce.sort = [
+    conventional_produce = [
   "Grapefruit",
   "Pineapple",
   "Oranges",
   "Watermelon",
   "Eggplant"],
 
-    organic_produce.sort = [
+    organic_produce = [
   "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
   "Asparagus"]
   ]
+  
+  conventional_produce.sort
+  organic_produce.sort
   
 end
 
