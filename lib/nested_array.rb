@@ -69,10 +69,10 @@ def matrix_lookup(matrix, row, column)
   
   matrix = [
     conventional_produce = [
-  "Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
+  "Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"].sort,
 
     organic_produce = [
-  "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+  "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"].sort
   ]
   
   matrix[row][column]
