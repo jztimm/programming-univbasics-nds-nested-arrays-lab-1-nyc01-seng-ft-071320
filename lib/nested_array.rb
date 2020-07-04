@@ -77,8 +77,7 @@ def matrix_lookup(matrix, row, column)
   
   matrix[column][row]
   
-  binding.pry
-  '0'
+  
   
 end
 
