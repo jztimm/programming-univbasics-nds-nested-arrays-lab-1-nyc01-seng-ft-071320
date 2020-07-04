@@ -28,16 +28,14 @@ def assembled_matrix
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"
-],
+  "Eggplant"],
 
     ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"
-]
+  "Asparagus"]
   ]
   
 end
