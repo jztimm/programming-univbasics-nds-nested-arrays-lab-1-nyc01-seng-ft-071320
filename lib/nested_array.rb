@@ -51,19 +51,16 @@ def sorted_matrix
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"],
+  "Eggplant"].sort,
 
     organic_produce = [
   "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"]
+  "Asparagus"].sort
   ]
   
-  conventional_produce.sort
-  organic_produce.sort
-
 end
 
 def matrix_lookup(matrix, row, column)
