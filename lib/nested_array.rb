@@ -66,6 +66,15 @@ end
 def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
+  
+  matrix = [
+    conventional_produce = [
+  "Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"].sort,
+
+    organic_produce = [
+  "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"].sort
+  ]
+  
 end
 
 def matrix_update(matrix, row, column, new_value)
