@@ -75,7 +75,7 @@ def matrix_lookup(matrix, row, column)
     organic_produce = [ "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
   
-  matrix[row][row]
+  matrix[row][column]
   
   
   
